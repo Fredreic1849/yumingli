@@ -1,0 +1,57 @@
+[en]
+languageName = 'English'
+weight = 1
+title = 'Yuming Li'
+
+[en.params]
+    author = "Yuming Li"
+
+[[en.menu.main]]
+    name = 'About'
+    url = '#about'
+    weight = 1
+[[en.menu.main]]
+    name = 'Education'
+    url = '#education'
+    weight = 2
+[[en.menu.main]]
+    name = 'Publications'
+    url = '#publications'
+    weight = 3
+[[en.menu.main]]
+    name = 'Experience'
+    url = '#experience'
+    weight = 4
+[[en.menu.main]]
+    name = 'CV'
+    url = 'yumingli/files/cv_liyuming.pdf'
+    weight = 5
+    
+[zh]
+languageName = '中文'
+weight = 2
+title = '李聿明'
+
+[zh.params]
+    author = "李聿明 (Yuming Li)"
+
+[[zh.menu.main]]
+    name = '关于我'
+    url = '#about'
+    weight = 1
+[[zh.menu.main]]
+    name = '教育背景'
+    url = '#education'
+    weight = 2
+[[zh.menu.main]]
+    name = '发表论文'
+    url = '#publications'
+    weight = 3
+[[zh.menu.main]]
+    name = '个人经历'
+    url = '#experience'
+    weight = 4
+[[zh.menu.main]]
+    name = '简历'
+    url = 'yumingli/files/cv_liyuming.pdf'
+    weight = 5

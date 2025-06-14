@@ -1,0 +1,18 @@
+baseURL = 'https://Fredreic1849.github.io/zero-academic-page-yuming/'
+
+# multi-language support
+defaultContentLanguage = 'en'
+
+# enable git info
+enableGitInfo = true
+
+# disable taxonomy, term and RSS (which removes categories, tags and index.xml)
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[build]
+  writeStats = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true 

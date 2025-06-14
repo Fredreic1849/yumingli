@@ -1,0 +1,60 @@
+.experience-entry {
+    margin-bottom: 1.5rem;
+}
+
+.experience-entry .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0.25rem;
+}
+
+.experience-entry .header-left {
+    text-align: left;
+}
+
+.experience-entry .header-right {
+    text-align: right;
+    flex-shrink: 0;
+    margin-left: 1rem;
+}
+
+.experience-entry .company {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.experience-entry .role {
+    font-style: italic;
+}
+
+.experience-entry .location,
+.experience-entry .date {
+    color: #555;
+}
+
+.dark-mode .experience-entry .location,
+.dark-mode .experience-entry .date {
+    color: #bbb;
+}
+
+.experience-entry .description {
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+}
+
+.education-entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+}
+
+.education-entry .school {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.education-entry .degree {
+    font-style: italic;
+} 

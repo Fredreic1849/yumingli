@@ -1,0 +1,25 @@
+profilePicture = "images/profile.png"
+enableDarkMode = true
+
+# Google Analytics ID, leave empty if you don't want to use Google Analytics
+googleAnalyticsID = ""
+
+[[social]]
+name = "github"
+url = "https://github.com/Fredreic1849"
+icon = "fab fa-github"
+
+[[social]]
+name = "google-scholar"
+url = "https://scholar.google.com/citations?hl=zh-CN&user=LQ-kxSEAAAAJ"
+icon = "fab fa-google-scholar"
+
+[[social]]
+name = "email"
+url = "mailto:2301210310@stu.pku.edu.cn"
+icon = "fas fa-envelope"
+
+[[social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/yuming-li-192700363"
+icon = "fab fa-linkedin"
